@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "node index.js"
-  "repository": {
+  "repository":{
     "type": "git",
     "url": "git+https://github.com/kacpereklubi/Abmc-bot.git"
   },
