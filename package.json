@@ -1,7 +1,7 @@
 {
-  "name": "abmc",
-  "version": "1.0.0",
-  "description": "abmc",
+  "name": "discordbot",
+  "version": "1.24.1",
+  "description": "Discord Bot Clock",
   "main": "src/index.js",
   "scripts": {
     "dev": "node src/index.js",
@@ -11,19 +11,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kacpereklubi/Abmc-bot.git"
+    "url": "git+https://github.com/m7rlin/DiscordBot.git"
   },
   "keywords": [
     "discord",
     "discord-bot",
     "discord-js"
   ],
-  "author": "kacpereklubi10",
+  "author": "Marcin Stawowczyk m7rlin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kacpereklubi/Abmc-bot/issues"
+    "url": "https://github.com/m7rlin/DiscordBot/issues"
   },
-  "homepage": "https://github.com/kacpereklubi/Abmc-bot#readme",
+  "homepage": "https://github.com/m7rlin/DiscordBot#readme",
   "dependencies": {
     "ascii-table": "0.0.9",
     "axios": "^0.19.2",
@@ -31,7 +31,7 @@
     "chalk": "^3.0.0",
     "discord.js": "^12.0.2",
     "dotenv": "^8.2.0",
-    "js-helpers": "github:kacpereklubi10/js-helpers",
+    "js-helpers": "github:m7rlin/js-helpers",
     "js-yaml": "^3.13.1",
     "nodemon": "^2.0.1"
   }
