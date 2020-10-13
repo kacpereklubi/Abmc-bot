@@ -1,38 +1,27 @@
 {
-  "name": "discordbot",
-  "version": "1.24.1",
-  "description": "Discord Bot Clock",
-  "main": "src/index.js",
+  "name": "abmc",
+  "version": "1.24",
+  "description": "Abmc bot",
+  "main": "index.js",
   "scripts": {
-    "dev": "node src/index.js",
-    "dev:watch": "nodemon src/index.js",
-    "start": "node src/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+    "dev": "node index.js"
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/m7rlin/DiscordBot.git"
+    "url": "git+https://github.com/kacpereklubi/Abmc-bot.git"
   },
   "keywords": [
-    "discord",
-    "discord-bot",
+    "Abmc",
+    "Abmc-bot",
     "discord-js"
   ],
-  "author": "Marcin Stawowczyk m7rlin",
+  "author": "kacpereklubi10",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/m7rlin/DiscordBot/issues"
+    "url": "https://github.com/kacpereklubi/Abmc-bot/issues"
   },
-  "homepage": "https://github.com/m7rlin/DiscordBot#readme",
+  "homepage": "https://github.com/kacpereklubi/Abmc-bot#readme",
   "dependencies": {
-    "ascii-table": "0.0.9",
-    "axios": "^0.19.2",
-    "canvas": "^2.6.1",
-    "chalk": "^3.0.0",
-    "discord.js": "^12.0.2",
-    "dotenv": "^8.2.0",
-    "js-helpers": "github:m7rlin/js-helpers",
-    "js-yaml": "^3.13.1",
-    "nodemon": "^2.0.1"
+    "discord.js": "^12.3.1"
   }
 }
+
