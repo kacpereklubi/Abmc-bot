@@ -61,7 +61,7 @@ client.on("ready", () => {
 })
 
 // Connect with Discord
-client.login(TOKEN)
+client.login(NzMyOTQyMTYzMDg3NzIwNTg5.Xw77lQ.JZ-np39ChC982H_LZXeQvSf1cFc)
 
 // Error handler - omit crashed
 client.on("debug", () => {})
