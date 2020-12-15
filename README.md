@@ -1,2 +1,0 @@
-# Abmc-bot
-Autorski bot 
